@@ -16,20 +16,4 @@ public class TwitterToKafkaConfig {
 
 	private String welcomeMessage;
 
-	public List<String> getTwitterKeywords() {
-		return twitterKeywords;
-	}
-
-	public String getWelcomeMessage() {
-		return welcomeMessage;
-	}
-
-	public void setTwitterKeywords(List<String> twitterKeywords) {
-		this.twitterKeywords = twitterKeywords;
-	}
-
-	public void setWelcomeMessage(String welcomeMessage) {
-		this.welcomeMessage = welcomeMessage;
-	}
-
 }
