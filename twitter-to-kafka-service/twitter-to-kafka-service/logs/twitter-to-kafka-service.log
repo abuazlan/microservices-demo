@@ -1,0 +1,5 @@
+2022-07-11 22:03:17 [main] INFO  c.m.d.t.TwitterToKafkaApplication - Starting TwitterToKafkaApplication using Java 18.0.1.1 on DellLatitude with PID 5852 (C:\Users\abids\workspaces\EDMS\demo\twitter-to-kafka-service\target\classes started by abids in C:\Users\abids\workspaces\EDMS\demo\twitter-to-kafka-service)
+2022-07-11 22:03:17 [main] INFO  c.m.d.t.TwitterToKafkaApplication - No active profile set, falling back to 1 default profile: "default"
+2022-07-11 22:03:17 [main] INFO  c.m.d.t.TwitterToKafkaApplication - Started TwitterToKafkaApplication in 0.996 seconds (JVM running for 1.899)
+2022-07-11 22:03:18 [main] INFO  c.m.d.t.TwitterToKafkaApplication - App started
+2022-07-11 22:03:18 [main] INFO  c.m.d.t.TwitterToKafkaApplication - [Java, Microservices, SpringBoot, Kafka, ElasticSearch]
