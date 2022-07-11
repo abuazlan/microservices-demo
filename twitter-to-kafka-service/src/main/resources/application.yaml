@@ -5,3 +5,5 @@ twitter-to-kafka-service:
     - SpringBoot
     - Kafka
     - ElasticSearch
+  welcome-message:
+    hello World, This is SpringBoot
